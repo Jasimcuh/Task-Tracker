@@ -3,8 +3,8 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
 
 # To run this application need to use angular cli and type
-  # ng serv
-  # npm run server for running db.json file
+  # ng serve
+  # npm run server -->for running db.json file
 
 ## Development server
 
