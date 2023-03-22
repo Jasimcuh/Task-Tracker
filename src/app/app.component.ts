@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title:string = 'task-tracker';
+  title:string = 'March_2023 task-tracker';
 }
